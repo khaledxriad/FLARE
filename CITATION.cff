@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "FLARE: reference code and data for flooding-based leakage resilience of lattice encryption"
+type: software
+authors:
+  - family-names: Riad
+    given-names: Khaled
+    email: kriad@kfu.edu.sa
+    affiliation: "Computer Science Department, College of Computer Sciences & Information Technology, King Faisal University, Al-Ahsa, Saudi Arabia"
+license: MIT
+repository-code: "[GitHub Link]"
+doi: "[Zenodo DOI]"
